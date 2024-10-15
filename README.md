@@ -1,6 +1,6 @@
 # java-hash
 [From mk_HashCalcultorFragment]
-
+```
 echo This is the script to make HashCalculatorFragment.class
 echo
 echo Run this script with . \(shell execute\):
@@ -37,5 +37,6 @@ echo  javac JdkHashCalculator.java
 echo  javac HashCalculatorTask.java 
  javac HashCalculatorTask.java 
  cp HashCalculatorTask.class hash
-echo javac HashCalculatorFragment.java 
+echo javac HashCalculatorFragment.java
+```
  javac HashCalculatorFragment.java 
